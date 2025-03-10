@@ -13,4 +13,4 @@ permissions:
 
 jobs:
   call-workflow:
-    uses: Kosikowski/skip-actions/.github/workflows/skip-framework.yml@v1
+    uses: Kosikowski/skip-actions/blob/main/.github/workflows/skip-framework.yml
